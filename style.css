@@ -1,0 +1,24 @@
+.xxx{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 10px;
+    padding-left: 0%;
+    margin:50px; 
+    margin-top: 300px;
+    font-size:x-large;
+    border-radius: 35%;
+    box-shadow: 2px 0px 60px 1px ;
+
+}
+ 
+.m{
+    color: #ffffff;
+}
+
+.mo{
+    background-color: rgb(145, 4, 4);
+    background-image: url(image/Danger-Sign-PNG-Photos.png);
+    background-size: contain;
+    background-repeat: repeat;
+    background-position: center;
+}
